@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 蔡银山
+title: Yinshan CAI
 
 # Name pronunciation (optional)
-name_pronunciation: Yinshan Cai
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Yinshan
